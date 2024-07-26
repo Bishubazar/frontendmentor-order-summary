@@ -29,7 +29,7 @@ function App() {
                         <img src="/images/icon-music.svg" alt="" />
                         <div className="flex items-center justify-between w-full">
                             <div className="flex flex-col items-start justify-center">
-                                <h2 className="font-black text-blue-dark">
+                                <h2 className="text-base font-black sm:text-lg text-blue-dark">
                                     Annual Plan
                                 </h2>
                                 <p className="text-sm font-medium md:text-lg text-blue-desa">
